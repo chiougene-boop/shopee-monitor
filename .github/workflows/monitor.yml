@@ -1,0 +1,26 @@
+name: Price Monitor
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 每 10 分鐘執行一次
+  workflow_dispatch:         # 允許手動觸發
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Monitor prices
+        env:
+          LINE_NOTIFY_TOKEN: ${{ secrets.LINE_NOTIFY_TOKEN }}
+        run: python shopee_monitor.py monitor

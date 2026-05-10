@@ -1,0 +1,35 @@
+name: Daily Price Snapshot
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 每天台北時間 00:00（UTC 16:00）
+  workflow_dispatch:       # 允許手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Take price snapshot
+        run: python shopee_monitor.py snapshot
+
+      - name: Commit and push snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices_snapshot.json
+          git diff --staged --quiet || git commit -m "chore: price snapshot $(date -u +'%Y-%m-%d')"
+          git push
