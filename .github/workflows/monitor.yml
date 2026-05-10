@@ -22,5 +22,5 @@ jobs:
 
       - name: Monitor prices
         env:
-          LINE_NOTIFY_TOKEN: ${{ secrets.LINE_NOTIFY_TOKEN }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python shopee_monitor.py monitor

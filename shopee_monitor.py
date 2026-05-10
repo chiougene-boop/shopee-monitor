@@ -2,15 +2,18 @@ import json
 import os
 import sys
 import time
+import smtplib
 import requests
 from datetime import datetime
+from email.mime.text import MIMEText
 from pathlib import Path
 import pytz
 
 SHOPEE_BASE = "https://shopee.tw/api/v4"
 SHOP_USERNAME = "xiaomi.tw"
 DROP_THRESHOLD = 0.60
-LINE_TOKEN = os.environ.get("LINE_NOTIFY_TOKEN", "")
+GMAIL_ADDRESS = "chiougene@gmail.com"
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 SNAPSHOT_FILE = "prices_snapshot.json"
 TZ = pytz.timezone("Asia/Taipei")
 
@@ -77,20 +80,21 @@ def get_all_products(shop_id):
     return products
 
 
-def send_line(message):
-    if not LINE_TOKEN:
-        print("LINE_NOTIFY_TOKEN 未設定，跳過通知")
+def send_email(subject, body):
+    if not GMAIL_APP_PASSWORD:
+        print("GMAIL_APP_PASSWORD 未設定，跳過通知")
         return
     try:
-        r = requests.post(
-            "https://notify-api.line.me/api/notify",
-            headers={"Authorization": f"Bearer {LINE_TOKEN}"},
-            data={"message": message},
-            timeout=10,
-        )
-        r.raise_for_status()
+        msg = MIMEText(body, "plain", "utf-8")
+        msg["Subject"] = subject
+        msg["From"] = GMAIL_ADDRESS
+        msg["To"] = GMAIL_ADDRESS
+        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+            server.starttls()
+            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
+            server.sendmail(GMAIL_ADDRESS, GMAIL_ADDRESS, msg.as_string())
     except Exception as e:
-        print(f"LINE 通知失敗：{e}")
+        print(f"Email 通知失敗：{e}")
 
 
 def do_snapshot():
@@ -138,16 +142,17 @@ def do_monitor():
         drop = (base_price - current_price) / base_price
         if drop >= DROP_THRESHOLD:
             found_any = True
-            msg = (
-                f"\n[蝦皮價格異常] 小米官方店"
-                f"\n商品：{p['name']}"
-                f"\n快照價格：NT${base_price:,.0f}"
-                f"\n現在價格：NT${current_price:,.0f}"
-                f"\n降幅：{drop * 100:.1f}%"
-                f"\n連結：{p['url']}"
+            subject = f"[蝦皮價格異常] {p['name'][:20]}... 降幅 {drop*100:.0f}%"
+            body = (
+                f"[蝦皮價格異常] 小米官方店\n\n"
+                f"商品：{p['name']}\n"
+                f"快照價格：NT${base_price:,.0f}\n"
+                f"現在價格：NT${current_price:,.0f}\n"
+                f"降幅：{drop * 100:.1f}%\n"
+                f"連結：{p['url']}\n"
             )
-            print(msg)
-            send_line(msg)
+            print(body)
+            send_email(subject, body)
 
     if not found_any:
         print("無異常，監控完成")
