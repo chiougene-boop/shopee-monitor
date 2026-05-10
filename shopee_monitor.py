@@ -11,6 +11,7 @@ import pytz
 
 SHOPEE_BASE = "https://shopee.tw/api/v4"
 SHOP_USERNAME = "xiaomi.tw"
+SHOP_ID = 15199365
 DROP_THRESHOLD = 0.60
 GMAIL_ADDRESS = "chiougene@gmail.com"
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
@@ -40,15 +41,7 @@ def safe_get(url, params=None, retries=3):
             time.sleep(5)
 
 
-def get_shop_id():
-    r = safe_get(f"{SHOPEE_BASE}/shop/get_shop_detail", params={"shop_username": SHOP_USERNAME})
-    data = r.json()
-    if data.get("error"):
-        raise RuntimeError(f"取得商店資料失敗：{data}")
-    return data["data"]["shopid"]
-
-
-def get_all_products(shop_id):
+def get_all_products(shop_id=SHOP_ID):
     products = []
     offset = 0
     limit = 60
@@ -99,9 +92,7 @@ def send_email(subject, body):
 
 def do_snapshot():
     print("開始抓取商品快照...")
-    shop_id = get_shop_id()
-    print(f"小米商店 ID：{shop_id}")
-    products = get_all_products(shop_id)
+    products = get_all_products()
     data = {
         "timestamp": datetime.now(TZ).isoformat(),
         "products": {p["item_id"]: p for p in products},
@@ -126,8 +117,7 @@ def do_monitor():
     print(f"快照時間：{snapshot_time}，共 {len(snapshot)} 個商品")
     print("開始抓取目前價格...")
 
-    shop_id = get_shop_id()
-    current_products = get_all_products(shop_id)
+    current_products = get_all_products()
     print(f"目前商品數：{len(current_products)}")
 
     found_any = False
