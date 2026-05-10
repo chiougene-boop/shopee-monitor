@@ -9,67 +9,79 @@ from email.mime.text import MIMEText
 from pathlib import Path
 import pytz
 
-SHOPEE_BASE = "https://shopee.tw/api/v4"
-SHOP_USERNAME = "xiaomi.tw"
-SHOP_ID = 15199365
+MOMO_SEARCH_API = "https://apisearch.momoshop.com.tw/momoSearchCloud/moec/textSearch"
 DROP_THRESHOLD = 0.60
 GMAIL_ADDRESS = "chiougene@gmail.com"
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 SNAPSHOT_FILE = "prices_snapshot.json"
 TZ = pytz.timezone("Asia/Taipei")
 
-session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Referer": f"https://shopee.tw/{SHOP_USERNAME}",
-    "Accept": "application/json",
-    "X-API-SOURCE": "pc",
-    "X-Shopee-Language": "zh-Hant",
-})
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "Referer": "https://www.momoshop.com.tw/",
+    "Content-Type": "application/json",
+    "Origin": "https://www.momoshop.com.tw",
+}
 
 
-def safe_get(url, params=None, retries=3):
-    for attempt in range(retries):
+def fetch_page(page: int) -> dict:
+    body = {
+        "host": "ecmobile",
+        "flag": "searchEngine",
+        "data": {
+            "searchValue": "小米",
+            "curPage": str(page),
+            "serviceCode": "MT01",
+            "has3P": "Y",
+            "platform": 16,
+            "NAM": "N",
+            "stockYN": "N",
+        },
+    }
+    for attempt in range(3):
         try:
-            r = session.get(url, params=params, timeout=15)
+            r = requests.post(MOMO_SEARCH_API, headers=HEADERS, json=body, timeout=15)
             r.raise_for_status()
-            return r
+            return r.json()
         except Exception as e:
-            if attempt == retries - 1:
+            if attempt == 2:
                 raise
-            print(f"請求失敗，{5} 秒後重試（{attempt + 1}/{retries}）：{e}")
+            print(f"第 {page} 頁請求失敗，5 秒後重試：{e}")
             time.sleep(5)
 
 
-def get_all_products(shop_id=SHOP_ID):
+def get_all_products():
     products = []
-    offset = 0
-    limit = 60
-    while True:
-        r = safe_get(f"{SHOPEE_BASE}/search/search_items", params={
-            "by": "pop", "match_id": shop_id, "newest": offset,
-            "order": "desc", "page_type": "shop", "scenario": "PAGE_OTHERS",
-            "version": 2, "limit": limit,
-        })
-        data = r.json()
-        items = data.get("items") or []
-        if not items:
-            break
+    page = 1
+    max_page = 1
+
+    while page <= max_page:
+        data = fetch_page(page)
+        rtn = data.get("rtnSearchData", {})
+        if page == 1:
+            max_page = min(data.get("maxPage", 1), 20)
+            print(f"共 {data.get('totalCnt', '?')} 個搜尋結果，{max_page} 頁")
+
+        items = rtn.get("goodsInfoList", [])
         for item in items:
-            info = item.get("item_basic") or item
-            raw_price = info.get("price_min") or info.get("price") or 0
-            if raw_price <= 0:
+            name = item.get("goodsName", "")
+            if "官方旗艦館" not in name:
                 continue
+            price = item.get("SALE_PRICE")
+            if not price:
+                continue
+            goods_code = item.get("goodsCode", "")
             products.append({
-                "item_id": str(info["itemid"]),
-                "name": info["name"],
-                "price": raw_price / 100000,
-                "url": f"https://shopee.tw/product/{info['shopid']}/{info['itemid']}",
+                "item_id": goods_code,
+                "name": name,
+                "price": float(price),
+                "url": f"https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code={goods_code}",
             })
-        offset += limit
-        if len(items) < limit:
-            break
-        time.sleep(1.5)
+
+        page += 1
+        if page <= max_page:
+            time.sleep(1)
+
     return products
 
 
@@ -91,14 +103,14 @@ def send_email(subject, body):
 
 
 def do_snapshot():
-    print("開始抓取商品快照...")
+    print("開始抓取商品快照（momo 小米官方旗艦館）...")
     products = get_all_products()
     data = {
         "timestamp": datetime.now(TZ).isoformat(),
         "products": {p["item_id"]: p for p in products},
     }
     Path(SNAPSHOT_FILE).write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"快照完成，共 {len(products)} 個商品")
+    print(f"快照完成，共 {len(products)} 個官方旗艦館商品")
 
 
 def do_monitor():
@@ -132,9 +144,9 @@ def do_monitor():
         drop = (base_price - current_price) / base_price
         if drop >= DROP_THRESHOLD:
             found_any = True
-            subject = f"[蝦皮價格異常] {p['name'][:20]}... 降幅 {drop*100:.0f}%"
+            subject = f"[momo 價格異常] {p['name'][:20]}... 降幅 {drop*100:.0f}%"
             body = (
-                f"[蝦皮價格異常] 小米官方店\n\n"
+                f"[momo 價格異常] 小米官方旗艦館\n\n"
                 f"商品：{p['name']}\n"
                 f"快照價格：NT${base_price:,.0f}\n"
                 f"現在價格：NT${current_price:,.0f}\n"
@@ -155,5 +167,5 @@ if __name__ == "__main__":
     elif mode == "monitor":
         do_monitor()
     else:
-        print(f"未知模式：{mode}，請使用 snapshot 或 monitor")
+        print(f"未知模式：{mode}")
         sys.exit(1)
