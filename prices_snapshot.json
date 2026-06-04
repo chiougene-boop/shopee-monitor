@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-04T07:15:54.589389+08:00",
+  "timestamp": "2026-06-05T05:57:29.232113+08:00",
   "products": {
-    "14805497": {
-      "item_id": "14805497",
-      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C201(1080p HD/寵物追蹤/微光全彩/雙向通話/物理遮蔽/監視器)",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14805497"
+    "13341601": {
+      "item_id": "13341601",
+      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C400(2.5K畫質/AI人體偵測/360度旋轉/微光全彩/監視器)",
+      "price": 899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13341601"
     },
     "12723306": {
       "item_id": "12723306",
@@ -13,11 +13,11 @@
       "price": 2499.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=12723306"
     },
-    "13341601": {
-      "item_id": "13341601",
-      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C400(2.5K畫質/AI人體偵測/360度旋轉/微光全彩/監視器)",
-      "price": 899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13341601"
+    "14795552": {
+      "item_id": "14795552",
+      "name": "【小米】官方旗艦館 小米手環10",
+      "price": 1199.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795552"
     },
     "13326964": {
       "item_id": "13326964",
@@ -25,23 +25,11 @@
       "price": 899.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13326964"
     },
-    "14795552": {
-      "item_id": "14795552",
-      "name": "【小米】官方旗艦館 小米手環10",
-      "price": 1199.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795552"
-    },
     "15048935": {
       "item_id": "15048935",
       "name": "【小米】官方旗艦館 Xiaomi 自帶線行動電源 20000 67W(CCC認證/LED電量顯示/可同時充3台設備/適合航空旅行)",
       "price": 1099.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15048935"
-    },
-    "13189822": {
-      "item_id": "13189822",
-      "name": "【小米】官方旗艦館 Xiaomi 體脂計 S400",
-      "price": 550.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13189822"
     },
     "14620507": {
       "item_id": "14620507",
@@ -55,47 +43,35 @@
       "price": 699.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150545"
     },
-    "15272197": {
-      "item_id": "15272197",
-      "name": "【小米】官方旗艦館 Xiaomi 17T Pro 6.83吋 5G(12G/512G/MTK Dimensity 9500 旗艦處理器/主鏡頭5000萬畫素)",
-      "price": 24999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272197"
-    },
     "14280337": {
       "item_id": "14280337",
       "name": "【小米】官方旗艦館 Xaiomi 手環 9 Active(米/黑/粉/紫/綠)",
       "price": 649.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14280337"
     },
-    "15272194": {
-      "item_id": "15272194",
-      "name": "【小米】官方旗艦館 小米Xiaomi 17T 6.59吋 5G(12G/512G/聯發科8500-Ultra/主鏡頭5000 萬畫素)",
-      "price": 19999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272194"
+    "14805497": {
+      "item_id": "14805497",
+      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C201(1080p HD/寵物追蹤/微光全彩/雙向通話/物理遮蔽/監視器)",
+      "price": 599.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14805497"
     },
-    "14036993": {
-      "item_id": "14036993",
-      "name": "【小米】官方旗艦館 Xiaomi 隨行果汁杯",
-      "price": 749.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14036993"
+    "13189822": {
+      "item_id": "13189822",
+      "name": "【小米】官方旗艦館 Xiaomi 體脂計 S400",
+      "price": 550.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13189822"
     },
-    "14581905": {
-      "item_id": "14581905",
-      "name": "【小米】官方旗艦館 Xiaomi 體重計 S200(白色/深灰色)",
-      "price": 379.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14581905"
+    "14954322": {
+      "item_id": "14954322",
+      "name": "【小米】官方旗艦館 REDMI Buds 8 pro",
+      "price": 1599.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14954322"
     },
     "15048934": {
       "item_id": "15048934",
       "name": "【小米】官方旗艦館 Xiaomi 自帶線行動電源 10000 67W(CCC認證/LED電量顯示/可同時充3台設備/適合航空旅行)",
       "price": 899.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15048934"
-    },
-    "13468136": {
-      "item_id": "13468136",
-      "name": "【小米】官方旗艦館 智慧寵物餵食器 2",
-      "price": 2249.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13468136"
     },
     "13951759": {
       "item_id": "13951759",
@@ -109,23 +85,11 @@
       "price": 799.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13471939"
     },
-    "13454873": {
-      "item_id": "13454873",
-      "name": "【小米】官方旗艦館 Xiaomi 電動打氣機 2 Pro 長效續航/150 psi高壓充氣/45秒快速充氣",
-      "price": 1502.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13454873"
-    },
     "13428088": {
       "item_id": "13428088",
       "name": "【小米】官方旗艦館 Xiaomi 負離子高速吹風機",
       "price": 1349.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13428088"
-    },
-    "13951757": {
-      "item_id": "13951757",
-      "name": "【小米】官方旗艦館 WPB1007MI 磁吸自帶線行動電源 10000 33W  1孔輸出(USB-C 可充/自帶線/37Wh)",
-      "price": 799.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13951757"
     },
     "15239494": {
       "item_id": "15239494",
@@ -133,17 +97,35 @@
       "price": 2199.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15239494"
     },
-    "13168003": {
-      "item_id": "13168003",
-      "name": "【小米】官方旗艦館  Xiaomi偏光太陽眼鏡套鏡",
-      "price": 419.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168003"
+    "13951757": {
+      "item_id": "13951757",
+      "name": "【小米】官方旗艦館 WPB1007MI 磁吸自帶線行動電源 10000 33W  1孔輸出(USB-C 可充/自帶線/37Wh)",
+      "price": 799.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13951757"
+    },
+    "15272197": {
+      "item_id": "15272197",
+      "name": "【小米】官方旗艦館 Xiaomi 17T Pro 6.83吋 5G(12G/512G/MTK Dimensity 9500 旗艦處理器/主鏡頭5000萬畫素)",
+      "price": 24999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272197"
     },
     "13630998": {
       "item_id": "13630998",
       "name": "【小米】官方旗艦館 PB1033MI 自帶線行動電源 10000 33W 2孔輸出 具Wh標示(USB-A/USB-C 可充/自帶線)",
       "price": 699.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13630998"
+    },
+    "14581905": {
+      "item_id": "14581905",
+      "name": "【小米】官方旗艦館 Xiaomi 體重計 S200(白色/深灰色)",
+      "price": 379.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14581905"
+    },
+    "13468136": {
+      "item_id": "13468136",
+      "name": "【小米】官方旗艦館 智慧寵物餵食器 2",
+      "price": 2249.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13468136"
     },
     "15042117": {
       "item_id": "15042117",
@@ -157,29 +139,23 @@
       "price": 1138.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14280343"
     },
-    "13166819": {
-      "item_id": "13166819",
-      "name": "官方旗艦館【小米】REDMI Pad SE 4G 8.7吋(6G/128G)",
-      "price": 3199.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13166819"
-    },
-    "14449834": {
-      "item_id": "14449834",
-      "name": "官方旗艦館【小米】Xiaomi Pad Mini WiFi 8.8吋(12G/512G)",
-      "price": 14999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14449834"
-    },
     "13527636": {
       "item_id": "13527636",
       "name": "【小米官方旗艦館】Xiaomi 電動刮鬍刀 S200(灰色/銀色)",
       "price": 799.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13527636"
     },
-    "14467463": {
-      "item_id": "14467463",
-      "name": "【小米】官方旗艦館 Xiaomi 便攜相片印表機 Pro",
-      "price": 3089.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14467463"
+    "15238523": {
+      "item_id": "15238523",
+      "name": "【小米】官方旗艦館 Redmi Watch 6 NFC",
+      "price": 2899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238523"
+    },
+    "15272199": {
+      "item_id": "15272199",
+      "name": "【小米】官方旗艦館 Xiaomi 17T Pro 6.83吋 5G(12G/1TB/MTK Dimensity 9500 旗艦處理器/主鏡頭5000萬畫素)",
+      "price": 27999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272199"
     },
     "13293519": {
       "item_id": "13293519",
@@ -187,11 +163,17 @@
       "price": 629.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13293519"
     },
-    "15238523": {
-      "item_id": "15238523",
-      "name": "【小米】官方旗艦館 Redmi Watch 6 NFC",
-      "price": 2899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238523"
+    "15272195": {
+      "item_id": "15272195",
+      "name": "【小米】官方旗艦館 Xiaomi 17T Pro 6.83吋 5G(12G/256G/MTK Dimensity 9500 旗艦處理器/主鏡頭5000萬畫素)",
+      "price": 22999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272195"
+    },
+    "13454873": {
+      "item_id": "13454873",
+      "name": "【小米】官方旗艦館 Xiaomi 電動打氣機 2 Pro 長效續航/150 psi高壓充氣/45秒快速充氣",
+      "price": 1399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13454873"
     },
     "13275155": {
       "item_id": "13275155",
@@ -211,11 +193,11 @@
       "price": 489.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14329663"
     },
-    "14795551": {
-      "item_id": "14795551",
-      "name": "【小米】官方旗艦館 小米手環10 NFC",
-      "price": 1499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795551"
+    "13175376": {
+      "item_id": "13175376",
+      "name": "【小米】官方旗艦館 小米電水壺 2 白色",
+      "price": 679.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175376"
     },
     "15050976": {
       "item_id": "15050976",
@@ -223,23 +205,11 @@
       "price": 849.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15050976"
     },
-    "14882045": {
-      "item_id": "14882045",
-      "name": "【小米】官方旗艦館 Redmi Buds 8 Lite (雲棉白/迷霧黑/海浪藍 顏色任選)",
-      "price": 1038.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14882045"
-    },
-    "13175376": {
-      "item_id": "13175376",
-      "name": "【小米】官方旗艦館 小米電水壺 2 白色",
-      "price": 679.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175376"
-    },
-    "13742790": {
-      "item_id": "13742790",
-      "name": "【小米】官方旗艦館 智慧寵物餵食器2+飲水機3L組合",
-      "price": 3135.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13742790"
+    "14795551": {
+      "item_id": "14795551",
+      "name": "【小米】官方旗艦館 小米手環10 NFC",
+      "price": 1499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795551"
     },
     "14469743": {
       "item_id": "14469743",
@@ -247,17 +217,11 @@
       "price": 1399.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14469743"
     },
-    "13468137": {
-      "item_id": "13468137",
-      "name": "【小米】官方旗艦館 智慧寵物飲水機 2(3L)",
-      "price": 1159.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13468137"
-    },
-    "13150790": {
-      "item_id": "13150790",
-      "name": "【小米】官方旗艦館 米家螢幕掛燈",
-      "price": 1049.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150790"
+    "13464635": {
+      "item_id": "13464635",
+      "name": "【小米】官方旗艦館  藍牙溫濕度計 3",
+      "price": 299.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13464635"
     },
     "14137993": {
       "item_id": "14137993",
@@ -265,11 +229,17 @@
       "price": 2149.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14137993"
     },
-    "14908836": {
-      "item_id": "14908836",
-      "name": "【小米】官方旗艦館 小米手環 9 Pro",
-      "price": 1899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14908836"
+    "13150790": {
+      "item_id": "13150790",
+      "name": "【小米】官方旗艦館 米家螢幕掛燈",
+      "price": 1049.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150790"
+    },
+    "14843439": {
+      "item_id": "14843439",
+      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15  6.77吋 4G(8G/256G/MTK Helio G100 Ultra/1億畫素)",
+      "price": 5499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843439"
     },
     "13424172": {
       "item_id": "13424172",
@@ -277,11 +247,17 @@
       "price": 1759.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13424172"
     },
-    "13396930": {
-      "item_id": "13396930",
-      "name": "【小米】官方旗艦館 智慧門鈴 3S",
-      "price": 1879.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13396930"
+    "13168003": {
+      "item_id": "13168003",
+      "name": "【小米】官方旗艦館  Xiaomi偏光太陽眼鏡套鏡",
+      "price": 419.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168003"
+    },
+    "14908836": {
+      "item_id": "14908836",
+      "name": "【小米】官方旗艦館 小米手環 9 Pro",
+      "price": 1899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14908836"
     },
     "14854905": {
       "item_id": "14854905",
@@ -307,17 +283,17 @@
       "price": 1699.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150548"
     },
-    "14804661": {
-      "item_id": "14804661",
-      "name": "【小米】官方旗艦館 Xiaomi米家工具箱 34件套裝/電動+手動/適用多種居家修繕情境",
-      "price": 1599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14804661"
+    "13913361": {
+      "item_id": "13913361",
+      "name": "【小米】官方旗艦館 無線直髮梳",
+      "price": 1389.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13913361"
     },
-    "15239491": {
-      "item_id": "15239491",
-      "name": "【小米】官方旗艦館 Xiaomi Watch S5_46mm",
-      "price": 4999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15239491"
+    "14467463": {
+      "item_id": "14467463",
+      "name": "【小米】官方旗艦館 Xiaomi 便攜相片印表機 Pro",
+      "price": 3189.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14467463"
     },
     "15048933": {
       "item_id": "15048933",
@@ -325,41 +301,11 @@
       "price": 1099.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15048933"
     },
-    "13913361": {
-      "item_id": "13913361",
-      "name": "【小米】官方旗艦館 無線直髮梳",
-      "price": 1389.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13913361"
-    },
     "13384931": {
       "item_id": "13384931",
       "name": "【小米】官方旗艦館 米家無線吸塵器 mini",
       "price": 1159.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13384931"
-    },
-    "13358278": {
-      "item_id": "13358278",
-      "name": "【小米】官方旗艦館 Xiaomi 電動打氣機 2 輕巧便攜/150 psi高壓充氣/預設充氣模式",
-      "price": 1104.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13358278"
-    },
-    "14986870": {
-      "item_id": "14986870",
-      "name": "【小米】官方旗艦館 Xiaomi Tag(2入裝/兼容Apple/Android/IP67 防塵防水/遠程查找物品/續航力超過一年)",
-      "price": 698.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14986870"
-    },
-    "14366888": {
-      "item_id": "14366888",
-      "name": "【小米】官方旗艦館 Xiaomi Sound Party 派對喇叭",
-      "price": 2399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14366888"
-    },
-    "14843438": {
-      "item_id": "14843438",
-      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15  6.77吋 4G(6G/128G/MTK Helio G100 Ultra/1億畫素)",
-      "price": 4499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843438"
     },
     "15239492": {
       "item_id": "15239492",
@@ -367,23 +313,35 @@
       "price": 5999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15239492"
     },
-    "15047268": {
-      "item_id": "15047268",
-      "name": "【小米】官方旗艦館 Xiaomi 自帶線行動電源 10000 口袋版-二入組(灰藍色/淺咖色 顏色任選)",
-      "price": 930.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15047268"
+    "14986870": {
+      "item_id": "14986870",
+      "name": "【小米】官方旗艦館 Xiaomi Tag(2入裝/兼容Apple/Android/IP67 防塵防水/遠程查找物品/續航力超過一年)",
+      "price": 698.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14986870"
     },
-    "13168005": {
-      "item_id": "13168005",
-      "name": "【小米】官方旗艦館 Xiaomi 抗藍光眼鏡",
-      "price": 449.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168005"
+    "13290995": {
+      "item_id": "13290995",
+      "name": "【小米】官方旗艦館 Xiaomi LED 智慧檯燈 2",
+      "price": 1159.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13290995"
     },
-    "13141059": {
-      "item_id": "13141059",
-      "name": "【小米】官方旗艦館 Xiaomi 磁吸閱讀燈",
-      "price": 399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13141059"
+    "14843438": {
+      "item_id": "14843438",
+      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15  6.77吋 4G(6G/128G/MTK Helio G100 Ultra/1億畫素)",
+      "price": 4499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843438"
+    },
+    "13150543": {
+      "item_id": "13150543",
+      "name": "【小米】官方旗艦館 負離子吹風機 H300 白色",
+      "price": 699.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150543"
+    },
+    "14366888": {
+      "item_id": "14366888",
+      "name": "【小米】官方旗艦館 Xiaomi Sound Party 派對喇叭",
+      "price": 2399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14366888"
     },
     "14330074": {
       "item_id": "14330074",
@@ -391,11 +349,47 @@
       "price": 1599.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14330074"
     },
-    "14954322": {
-      "item_id": "14954322",
-      "name": "【小米】官方旗艦館 REDMI Buds 8 pro",
-      "price": 1599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14954322"
+    "13742790": {
+      "item_id": "13742790",
+      "name": "【小米】官方旗艦館 智慧寵物餵食器2+飲水機3L組合",
+      "price": 3135.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13742790"
+    },
+    "15047268": {
+      "item_id": "15047268",
+      "name": "【小米】官方旗艦館 Xiaomi 自帶線行動電源 10000 口袋版-二入組(灰藍色/淺咖色 顏色任選)",
+      "price": 930.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15047268"
+    },
+    "13471937": {
+      "item_id": "13471937",
+      "name": "【小米】官方旗艦館 Xiaomi 自動感應洗手機 彩色版(粉色/藍色)",
+      "price": 599.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13471937"
+    },
+    "13166819": {
+      "item_id": "13166819",
+      "name": "官方旗艦館【小米】REDMI Pad SE 4G 8.7吋(6G/128G)",
+      "price": 3199.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13166819"
+    },
+    "13168005": {
+      "item_id": "13168005",
+      "name": "【小米】官方旗艦館 Xiaomi 抗藍光眼鏡",
+      "price": 449.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168005"
+    },
+    "13168006": {
+      "item_id": "13168006",
+      "name": "【小米】官方旗艦館 Xiaomi方框時尚太陽眼鏡",
+      "price": 899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168006"
+    },
+    "13141059": {
+      "item_id": "13141059",
+      "name": "【小米】官方旗艦館 Xiaomi 磁吸閱讀燈",
+      "price": 399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13141059"
     },
     "14330075": {
       "item_id": "14330075",
@@ -409,29 +403,11 @@
       "price": 579.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13424173"
     },
-    "13471937": {
-      "item_id": "13471937",
-      "name": "【小米】官方旗艦館 Xiaomi 自動感應洗手機 彩色版(粉色/藍色)",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13471937"
-    },
     "13936266": {
       "item_id": "13936266",
       "name": "【小米】官方旗艦館 多功能電煮鍋 1.5L",
       "price": 1099.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13936266"
-    },
-    "13168006": {
-      "item_id": "13168006",
-      "name": "【小米】官方旗艦館 Xiaomi方框時尚太陽眼鏡",
-      "price": 899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168006"
-    },
-    "14848368": {
-      "item_id": "14848368",
-      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C302(2K/AI寵物&人形偵測/嬰兒哭鬧/全彩夜視/物理遮蔽/監視器)",
-      "price": 799.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14848368"
     },
     "14370185": {
       "item_id": "14370185",
@@ -439,17 +415,17 @@
       "price": 199.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14370185"
     },
-    "14472893": {
-      "item_id": "14472893",
-      "name": "【小米】官方旗艦館 Xiaomi MDY-19-EF GaN 充電器 33W(一孔Type-C)",
-      "price": 269.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14472893"
-    },
     "13527637": {
       "item_id": "13527637",
       "name": "【小米】官方旗艦館 Xiaomi 理髮器 2",
       "price": 879.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13527637"
+    },
+    "14848368": {
+      "item_id": "14848368",
+      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C302(2K/AI寵物&人形偵測/嬰兒哭鬧/全彩夜視/物理遮蔽/監視器)",
+      "price": 799.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14848368"
     },
     "13409406": {
       "item_id": "13409406",
@@ -457,17 +433,17 @@
       "price": 1399.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13409406"
     },
+    "14472893": {
+      "item_id": "14472893",
+      "name": "【小米】官方旗艦館 Xiaomi MDY-19-EF GaN 充電器 33W(一孔Type-C)",
+      "price": 269.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14472893"
+    },
     "13334699": {
       "item_id": "13334699",
       "name": "【小米】官方旗艦館 Xiaomi AX3000T路由器(WiFi6/3T3R Mesh 雙頻聚合)",
       "price": 1099.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334699"
-    },
-    "13150537": {
-      "item_id": "13150537",
-      "name": "【小米】官方旗艦館 Xiaomi 聲波電動牙刷 T302(銀灰色/藍黑色)",
-      "price": 859.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150537"
     },
     "14873697": {
       "item_id": "14873697",
@@ -475,11 +451,11 @@
       "price": 549.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14873697"
     },
-    "13271498": {
-      "item_id": "13271498",
-      "name": "【小米】官方旗艦館 夜燈 3",
-      "price": 349.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13271498"
+    "13150537": {
+      "item_id": "13150537",
+      "name": "【小米】官方旗艦館 Xiaomi 聲波電動牙刷 T302(銀灰色/藍黑色)",
+      "price": 859.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150537"
     },
     "14986731": {
       "item_id": "14986731",
@@ -487,17 +463,29 @@
       "price": 1199.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14986731"
     },
+    "13875442": {
+      "item_id": "13875442",
+      "name": "【小米】官方旗艦館 65W GaN 延長線",
+      "price": 899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13875442"
+    },
     "15190825": {
       "item_id": "15190825",
       "name": "【小米】官方旗艦館 米家智慧DC超薄電風扇Pro(附收納盒/便攜風扇/露營扇/Type-C供電/桌地兩用/8.7cm超薄)",
       "price": 2899.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15190825"
     },
-    "13875442": {
-      "item_id": "13875442",
-      "name": "【小米】官方旗艦館 65W GaN 延長線",
-      "price": 899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13875442"
+    "13407025": {
+      "item_id": "13407025",
+      "name": "【小米官方旗艦館】Xiaomi 電腦喇叭",
+      "price": 995.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13407025"
+    },
+    "13271498": {
+      "item_id": "13271498",
+      "name": "【小米】官方旗艦館 夜燈 3",
+      "price": 349.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13271498"
     },
     "14350929": {
       "item_id": "14350929",
@@ -511,12 +499,6 @@
       "price": 1299.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13341599"
     },
-    "15272200": {
-      "item_id": "15272200",
-      "name": "【小米】官方旗艦館 小米Xiaomi 17T 6.59吋 5G(12G/256G/聯發科8500-Ultra/主鏡頭5000 萬畫素)",
-      "price": 17999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272200"
-    },
     "13538787": {
       "item_id": "13538787",
       "name": "【小米】官方旗艦館 Xiaomi 無線藍牙雙模滑鼠 2(黑色/白色)",
@@ -528,12 +510,6 @@
       "name": "【小米官方旗艦館】Xiaomi Sound Pocket 青灰色",
       "price": 449.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14450140"
-    },
-    "13407025": {
-      "item_id": "13407025",
-      "name": "【小米官方旗艦館】Xiaomi 電腦喇叭",
-      "price": 995.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13407025"
     },
     "13361936": {
       "item_id": "13361936",
@@ -559,125 +535,17 @@
       "price": 599.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13676808"
     },
-    "14592723": {
-      "item_id": "14592723",
-      "name": "【小米官方旗艦館】智慧投影機 L1 Pro腳架組(1080p HD/4K/120吋/400流明)",
-      "price": 8998.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14592723"
-    },
     "13275152": {
       "item_id": "13275152",
       "name": "【小米】官方旗艦館 智慧氣炸鍋 5.5L(原廠公司貨/含一年保固/米家APP/線上食譜)",
       "price": 2599.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13275152"
     },
-    "13361937": {
-      "item_id": "13361937",
-      "name": "【小米】官方旗艦館Xiaomi米家電動起子機 一體成形/強磁馬達/5N.m扭矩/12枚S2鋼起子頭/2000mAh大容量電池",
-      "price": 1049.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361937"
-    },
-    "13356403": {
-      "item_id": "13356403",
-      "name": "【小米】官方旗艦館 Xiaomi智慧攝影機C500 雙攝版(2K雙鏡頭/寵物追蹤/寶寶哭聲/AI偵測/全彩夜視/監視器)",
-      "price": 1699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356403"
-    },
-    "13723760": {
-      "item_id": "13723760",
-      "name": "【小米】官方旗艦館 智慧香氛機+香氛液補充瓶*1",
-      "price": 698.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13723760"
-    },
-    "15191109": {
-      "item_id": "15191109",
-      "name": "【小米】官方旗艦館 REDMI Pad 2 9.7吋 WiFi (4G/64G)",
-      "price": 4499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15191109"
-    },
-    "13150791": {
-      "item_id": "13150791",
-      "name": "【小米】官方旗艦館 米家 LED 智慧檯燈 1S 白色",
-      "price": 1099.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150791"
-    },
-    "15272199": {
-      "item_id": "15272199",
-      "name": "【小米】官方旗艦館 Xiaomi 17T Pro 6.83吋 5G(12G/1TB/MTK Dimensity 9500 旗艦處理器/主鏡頭5000萬畫素)",
-      "price": 27999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15272199"
-    },
-    "13175380": {
-      "item_id": "13175380",
-      "name": "【小米】官方旗艦館 米家床頭燈 2 白色",
-      "price": 929.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175380"
-    },
-    "13174902": {
-      "item_id": "13174902",
-      "name": "【小米】官方旗艦館 Xiaomi 電動刮鬍刀 S301",
-      "price": 769.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13174902"
-    },
-    "13539401": {
-      "item_id": "13539401",
-      "name": "【小米】官方旗艦館 Xiaomi 無線滑鼠 3 彩色版",
-      "price": 399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13539401"
-    },
-    "14409712": {
-      "item_id": "14409712",
-      "name": "【小米】官方旗艦館 Xiaomi 掃拖機器人 5(超薄88mm/升降dToF/20000Pa吸力/80度熱水洗/伸縮機械臂)",
-      "price": 12999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14409712"
-    },
-    "13175381": {
-      "item_id": "13175381",
-      "name": "【小米】官方旗艦館 Xiaomi 電磁爐 Lite",
-      "price": 1349.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175381"
-    },
-    "13424230": {
-      "item_id": "13424230",
-      "name": "【小米】官方旗艦館 Xiaomi 恆溫電水壺 2 Pro",
-      "price": 1359.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13424230"
-    },
-    "13723688": {
-      "item_id": "13723688",
-      "name": "【小米】官方旗艦館 智慧香氛機+香氛液補充瓶*2",
-      "price": 877.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13723688"
-    },
-    "14977714": {
-      "item_id": "14977714",
-      "name": "【小米】官方旗艦館 Xiaomi Pad 8 Pro 11.2吋 WiFi(12G/512G/高通8 Elite/主相機5000萬畫素)",
-      "price": 17999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977714"
-    },
-    "14844237": {
-      "item_id": "14844237",
-      "name": "【小米】官方旗艦館 Xiaomi 米家智慧音頻眼鏡 混合眉架款",
-      "price": 5399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14844237"
-    },
-    "13471936": {
-      "item_id": "13471936",
-      "name": "【小米】官方旗艦館 Xiaomi 烤麵包機",
-      "price": 699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13471936"
-    },
-    "14881357": {
-      "item_id": "14881357",
-      "name": "【小米】官方旗艦館 (二入組) 室外攝影機 CW500 雙攝版 監視器/雙2.5K超清畫質/人形追蹤/智慧全彩夜視/聲光",
-      "price": 3878.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14881357"
-    },
-    "14962359": {
-      "item_id": "14962359",
-      "name": "【小米】官方旗艦館 Xiaomi 米家電磨筆",
-      "price": 1079.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14962359"
+    "14592723": {
+      "item_id": "14592723",
+      "name": "【小米官方旗艦館】智慧投影機 L1 Pro腳架組(1080p HD/4K/120吋/400流明)",
+      "price": 8998.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14592723"
     },
     "14843494": {
       "item_id": "14843494",
@@ -685,29 +553,23 @@
       "price": 12499.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843494"
     },
+    "14977714": {
+      "item_id": "14977714",
+      "name": "【小米】官方旗艦館 Xiaomi Pad 8 Pro 11.2吋 WiFi(12G/512G/高通8 Elite/主相機5000萬畫素)",
+      "price": 17999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977714"
+    },
+    "14881357": {
+      "item_id": "14881357",
+      "name": "【小米】官方旗艦館 (二入組) 室外攝影機 CW500 雙攝版 監視器/雙2.5K超清畫質/人形追蹤/智慧全彩夜視/聲光",
+      "price": 3878.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14881357"
+    },
     "15235853": {
       "item_id": "15235853",
       "name": "【小米】金屬磁吸錶帶組★官方旗艦館 小米手環10",
       "price": 1390.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15235853"
-    },
-    "13361939": {
-      "item_id": "13361939",
-      "name": "【小米】官方旗艦館Xiaomi米家精修螺絲起子套裝組 24枚精密批頭/S2高硬度工具鋼/磁吸起子頭",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361939"
-    },
-    "13164408": {
-      "item_id": "13164408",
-      "name": "【小米】官方旗艦館 保溫杯 口袋版(黑色/白色)",
-      "price": 279.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13164408"
-    },
-    "13991400": {
-      "item_id": "13991400",
-      "name": "【小米】官方旗艦館 便攜相片印表機 1S(藍芽相印機)",
-      "price": 1989.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13991400"
     },
     "14521416": {
       "item_id": "14521416",
@@ -715,17 +577,17 @@
       "price": 1099.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14521416"
     },
+    "13175381": {
+      "item_id": "13175381",
+      "name": "【小米】官方旗艦館 Xiaomi 電磁爐 Lite",
+      "price": 1349.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175381"
+    },
     "13598118": {
       "item_id": "13598118",
       "name": "【小米】官方旗艦館 REDMI紅米 Note 14 Pro+  6.67吋 5G(12G/512G/Snapdragon 7s Gen 3/5000萬鏡頭畫素)",
       "price": 12999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13598118"
-    },
-    "13168007": {
-      "item_id": "13168007",
-      "name": "【小米】官方旗艦館 Xiaomi 運動太陽眼鏡",
-      "price": 899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168007"
     },
     "14969911": {
       "item_id": "14969911",
@@ -733,41 +595,17 @@
       "price": 23999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14969911"
     },
+    "14844237": {
+      "item_id": "14844237",
+      "name": "【小米】官方旗艦館 Xiaomi 米家智慧音頻眼鏡 混合眉架款",
+      "price": 5399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14844237"
+    },
     "14998004": {
       "item_id": "14998004",
       "name": "【小米】官方旗艦館 Xiaomi 纖薄磁吸行動電源 5000 15W 石墨黑(通過3C認證/0.6cm超薄/小米首款自研電池)",
       "price": 1399.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14998004"
-    },
-    "13583918": {
-      "item_id": "13583918",
-      "name": "【小米】官方旗艦館  PB0520MI 超薄行動電源 5000mAh 20W 1孔輸出(USB-C可充)",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13583918"
-    },
-    "14417935": {
-      "item_id": "14417935",
-      "name": "【小米】官方旗艦館 Xiaomi 6A 編織傳輸線 2m(USB-C to USB-C)",
-      "price": 299.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14417935"
-    },
-    "13175375": {
-      "item_id": "13175375",
-      "name": "【小米官方旗艦館】米家恆溫電水壺 1S",
-      "price": 699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175375"
-    },
-    "13334693": {
-      "item_id": "13334693",
-      "name": "【小米】官方旗艦館 Xiaomi AX3000 Mesh 路由器(兩件裝)",
-      "price": 2159.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334693"
-    },
-    "14998005": {
-      "item_id": "14998005",
-      "name": "【小米】官方旗艦館 Xiaomi 纖薄磁吸行動電源 5000 15W 曜光橙(通過3C認證/0.6cm超薄/小米首款自研電池)",
-      "price": 1499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14998005"
     },
     "14370181": {
       "item_id": "14370181",
@@ -781,11 +619,17 @@
       "price": 4299.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14391532"
     },
-    "13361938": {
-      "item_id": "13361938",
-      "name": "【小米】官方旗艦館Xiaomi米家16合1棘輪螺絲起子 黑色 45組高校經密棘輪/S2鋼高硬度批頭/按壓式彈倉",
+    "13175375": {
+      "item_id": "13175375",
+      "name": "【小米官方旗艦館】米家恆溫電水壺 1S",
+      "price": 699.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175375"
+    },
+    "13583918": {
+      "item_id": "13583918",
+      "name": "【小米】官方旗艦館  PB0520MI 超薄行動電源 5000mAh 20W 1孔輸出(USB-C可充)",
       "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361938"
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13583918"
     },
     "14977713": {
       "item_id": "14977713",
@@ -793,11 +637,23 @@
       "price": 18999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977713"
     },
-    "13756843": {
-      "item_id": "13756843",
-      "name": "【小米】官方旗艦館 Xiaomi Watch S4",
-      "price": 3699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756843"
+    "14417935": {
+      "item_id": "14417935",
+      "name": "【小米】官方旗艦館 Xiaomi 6A 編織傳輸線 2m(USB-C to USB-C)",
+      "price": 299.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14417935"
+    },
+    "14409711": {
+      "item_id": "14409711",
+      "name": "【小米】官方旗艦館 Xiaomi 掃拖機器人 5 Pro(AI三攝/升降dToF/20000Pa吸力/80度熱水洗/全能基站)",
+      "price": 15918.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14409711"
+    },
+    "14998005": {
+      "item_id": "14998005",
+      "name": "【小米】官方旗艦館 Xiaomi 纖薄磁吸行動電源 5000 15W 曜光橙(通過3C認證/0.6cm超薄/小米首款自研電池)",
+      "price": 1499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14998005"
     },
     "13275129": {
       "item_id": "13275129",
@@ -805,11 +661,11 @@
       "price": 1849.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13275129"
     },
-    "13584158": {
-      "item_id": "13584158",
-      "name": "【小米】官方旗艦館 Xiaomi 無線滑鼠 舒適版(黑色/白色)",
-      "price": 289.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13584158"
+    "14370182": {
+      "item_id": "14370182",
+      "name": "【小米】官方旗艦館 Xiaomi 3A 編織傳輸線 1m(USB-C to USB-C)",
+      "price": 149.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14370182"
     },
     "13147247": {
       "item_id": "13147247",
@@ -823,29 +679,11 @@
       "price": 449.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14450142"
     },
-    "13376493": {
-      "item_id": "13376493",
-      "name": "【小米】官方旗艦館 Xiaomi 多功能網關 2S 白色",
-      "price": 1099.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13376493"
-    },
-    "13169515": {
-      "item_id": "13169515",
-      "name": "【小米】官方旗艦館 Xiaomi 多功能手電筒 1000流明/90h超長續航/磁吸固定/安全帶切割器/彈射式破窗器",
-      "price": 1050.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13169515"
-    },
-    "14420042": {
-      "item_id": "14420042",
-      "name": "【小米】官方旗艦館 三入組 Xiaomi 6A 編織傳輸線 2m(USB-C to USB-C)",
-      "price": 747.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14420042"
-    },
-    "14969912": {
-      "item_id": "14969912",
-      "name": "【小米】官方旗艦館 Xiaomi 17 6.3吋 5G(12G/512G/第五代驍龍8850W/主相機徠卡5000萬像素光學變焦",
-      "price": 25999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14969912"
+    "13756843": {
+      "item_id": "13756843",
+      "name": "【小米】官方旗艦館 Xiaomi Watch S4",
+      "price": 3699.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756843"
     },
     "13756003": {
       "item_id": "13756003",
@@ -853,17 +691,11 @@
       "price": 19999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756003"
     },
-    "14620505": {
-      "item_id": "14620505",
-      "name": "【小米】官方旗艦館 Xiaomi 氣炸鍋 6.5L(白色/黑色)",
-      "price": 2399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14620505"
-    },
-    "14843443": {
-      "item_id": "14843443",
-      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15 Pro+ 6.83吋 5G(12G/256G/Snapdragon 7s Gen 4/2億畫素)",
-      "price": 11499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843443"
+    "13361937": {
+      "item_id": "13361937",
+      "name": "【小米】官方旗艦館Xiaomi米家電動起子機 一體成形/強磁馬達/5N.m扭矩/12枚S2鋼起子頭/2000mAh大容量電池",
+      "price": 1049.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361937"
     },
     "15238718": {
       "item_id": "15238718",
@@ -871,23 +703,47 @@
       "price": 1499.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238718"
     },
-    "13168004": {
-      "item_id": "13168004",
-      "name": "【小米】官方旗艦館 尼龍偏光太陽眼鏡",
-      "price": 899.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168004"
+    "13723760": {
+      "item_id": "13723760",
+      "name": "【小米】官方旗艦館 智慧香氛機+香氛液補充瓶*1",
+      "price": 698.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13723760"
     },
-    "13356855": {
-      "item_id": "13356855",
-      "name": "【小米】官方旗艦館 小米商務通勤背包(藍色/深灰/淺灰)",
-      "price": 595.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356855"
+    "14843443": {
+      "item_id": "14843443",
+      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15 Pro+ 6.83吋 5G(12G/256G/Snapdragon 7s Gen 4/2億畫素)",
+      "price": 11499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843443"
     },
-    "13554036": {
-      "item_id": "13554036",
-      "name": "【小米】官方旗艦館 Xiaomi 智慧跳繩",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13554036"
+    "13376493": {
+      "item_id": "13376493",
+      "name": "【小米】官方旗艦館 Xiaomi 多功能網關 2S 白色",
+      "price": 1099.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13376493"
+    },
+    "14620505": {
+      "item_id": "14620505",
+      "name": "【小米】官方旗艦館 Xiaomi 氣炸鍋 6.5L(白色/黑色)",
+      "price": 2399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14620505"
+    },
+    "14684397": {
+      "item_id": "14684397",
+      "name": "【小米】三入組 小米官方旗艦館 Xiaomi 智慧攝影機 C701 AI寵物嬰兒監控技術/人體動作追蹤警報",
+      "price": 4047.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14684397"
+    },
+    "13539401": {
+      "item_id": "13539401",
+      "name": "【小米】官方旗艦館 Xiaomi 無線滑鼠 3 彩色版",
+      "price": 399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13539401"
+    },
+    "14420042": {
+      "item_id": "14420042",
+      "name": "【小米】官方旗艦館 三入組 Xiaomi 6A 編織傳輸線 2m(USB-C to USB-C)",
+      "price": 747.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14420042"
     },
     "13345155": {
       "item_id": "13345155",
@@ -895,35 +751,29 @@
       "price": 2390.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13345155"
     },
-    "14843441": {
-      "item_id": "14843441",
-      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15 Pro 6.83吋 5G(12G/256G/MTK Dimensity 7400 Ultra/2億畫素)",
-      "price": 10499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843441"
+    "13175380": {
+      "item_id": "13175380",
+      "name": "【小米】官方旗艦館 米家床頭燈 2 白色",
+      "price": 929.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175380"
     },
-    "14977716": {
-      "item_id": "14977716",
-      "name": "【小米】官方旗艦館 Xiaomi Pad 8 11.2吋 WiFi(12G/256G/高通8s Gen4/主相機1300萬畫素)",
-      "price": 13999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977716"
+    "14459867": {
+      "item_id": "14459867",
+      "name": "【小米】小米官方旗艦館 Xiaomi Watch S4 41mm",
+      "price": 3699.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14459867"
     },
-    "13356856": {
-      "item_id": "13356856",
-      "name": "【小米】官方旗艦館 小米迷你雙肩包(活力橙/芭比粉/湖藍/玄青/曜石黑)",
-      "price": 199.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356856"
+    "13723688": {
+      "item_id": "13723688",
+      "name": "【小米】官方旗艦館 智慧香氛機+香氛液補充瓶*2",
+      "price": 877.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13723688"
     },
-    "14843439": {
-      "item_id": "14843439",
-      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15  6.77吋 4G(8G/256G/MTK Helio G100 Ultra/1億畫素)",
-      "price": 5499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843439"
-    },
-    "13150541": {
-      "item_id": "13150541",
-      "name": "【小米官方旗艦館】Xiaomi 電動修鬍刀",
-      "price": 695.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150541"
+    "13164408": {
+      "item_id": "13164408",
+      "name": "【小米】官方旗艦館 保溫杯 口袋版(黑色/白色)",
+      "price": 279.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13164408"
     },
     "13630997": {
       "item_id": "13630997",
@@ -931,29 +781,65 @@
       "price": 1159.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13630997"
     },
+    "13150541": {
+      "item_id": "13150541",
+      "name": "【小米官方旗艦館】Xiaomi 電動修鬍刀",
+      "price": 695.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13150541"
+    },
+    "14962359": {
+      "item_id": "14962359",
+      "name": "【小米】官方旗艦館 Xiaomi 米家電磨筆",
+      "price": 1079.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14962359"
+    },
+    "14977716": {
+      "item_id": "14977716",
+      "name": "【小米】官方旗艦館 Xiaomi Pad 8 11.2吋 WiFi(12G/256G/高通8s Gen4/主相機1300萬畫素)",
+      "price": 13999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977716"
+    },
     "13833229": {
       "item_id": "13833229",
       "name": "【小米】官方旗艦館 P03MI 行動電源 25000 212W 3孔輸出(USB-A/USB-C可充/無線)",
       "price": 2699.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13833229"
     },
+    "14969912": {
+      "item_id": "14969912",
+      "name": "【小米】官方旗艦館 Xiaomi 17 6.3吋 5G(12G/512G/第五代驍龍8850W/主相機徠卡5000萬像素光學變焦",
+      "price": 25999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14969912"
+    },
+    "13168007": {
+      "item_id": "13168007",
+      "name": "【小米】官方旗艦館 Xiaomi 運動太陽眼鏡",
+      "price": 899.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13168007"
+    },
+    "13361939": {
+      "item_id": "13361939",
+      "name": "【小米】官方旗艦館Xiaomi米家精修螺絲起子套裝組 24枚精密批頭/S2高硬度工具鋼/磁吸起子頭",
+      "price": 599.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361939"
+    },
+    "13418119": {
+      "item_id": "13418119",
+      "name": "(二入組)【小米】官方旗艦館  智慧攝影機 C500 雙攝版",
+      "price": 3358.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13418119"
+    },
+    "14682692": {
+      "item_id": "14682692",
+      "name": "【小米】二入組 小米官方旗艦館 Xiaomi 智慧攝影機 C701 AI寵物嬰兒監控技術/人體動作追蹤警報",
+      "price": 2698.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14682692"
+    },
     "13756852": {
       "item_id": "13756852",
       "name": "官方旗艦館【小米】Xiaomi Pad 7 WiFi 11.2吋(12G/256G)",
       "price": 9999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756852"
-    },
-    "14969913": {
-      "item_id": "14969913",
-      "name": "【小米】官方旗艦館 Xiaomi 17 Ultra Leica 6.9吋 5G(16G/1TB/第五代驍龍8850W/主相機徠卡2億像素光學變焦",
-      "price": 49999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14969913"
-    },
-    "13849691": {
-      "item_id": "13849691",
-      "name": "【小米】官方旗艦館  吸頂燈 D30",
-      "price": 1499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13849691"
     },
     "13376492": {
       "item_id": "13376492",
@@ -967,11 +853,17 @@
       "price": 1395.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356404"
     },
-    "13175379": {
-      "item_id": "13175379",
-      "name": "【小米】官方旗艦館 米家 LED 智慧燈泡 白光版",
-      "price": 245.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175379"
+    "13244470": {
+      "item_id": "13244470",
+      "name": "【小米】官方旗艦館 家電快配★75型4K Mini LED 144Hz Google TV杜比智慧聯網顯示器(S mini 75)",
+      "price": 22618.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13244470"
+    },
+    "13334693": {
+      "item_id": "13334693",
+      "name": "【小米】官方旗艦館 Xiaomi AX3000 Mesh 路由器(兩件裝)",
+      "price": 2159.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334693"
     },
     "13625908": {
       "item_id": "13625908",
@@ -979,11 +871,29 @@
       "price": 1479.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13625908"
     },
-    "13271497": {
-      "item_id": "13271497",
-      "name": "【小米】官方旗艦館 Xiaomi 多功能露營燈 含可分離式手電筒/IP54防塵防潑水/Type-C充電/藍芽控制/超長續航",
-      "price": 1249.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13271497"
+    "13215191": {
+      "item_id": "13215191",
+      "name": "【小米官方旗艦館】Xiaomi Sound Pocket 黑色",
+      "price": 449.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13215191"
+    },
+    "13361997": {
+      "item_id": "13361997",
+      "name": "【小米】官方旗艦館 電子溫濕度計 Pro 白色",
+      "price": 579.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361997"
+    },
+    "13849691": {
+      "item_id": "13849691",
+      "name": "【小米】官方旗艦館  吸頂燈 D30",
+      "price": 1499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13849691"
+    },
+    "13175379": {
+      "item_id": "13175379",
+      "name": "【小米】官方旗艦館 米家 LED 智慧燈泡 白光版",
+      "price": 245.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13175379"
     },
     "13466198": {
       "item_id": "13466198",
@@ -997,11 +907,11 @@
       "price": 1699.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14675865"
     },
-    "13361997": {
-      "item_id": "13361997",
-      "name": "【小米】官方旗艦館 電子溫濕度計 Pro 白色",
-      "price": 579.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13361997"
+    "13271497": {
+      "item_id": "13271497",
+      "name": "【小米】官方旗艦館 Xiaomi 多功能露營燈 含可分離式手電筒/IP54防塵防潑水/Type-C充電/藍芽控制/超長續航",
+      "price": 1249.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13271497"
     },
     "15235015": {
       "item_id": "15235015",
@@ -1009,89 +919,29 @@
       "price": 11999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15235015"
     },
-    "13244470": {
-      "item_id": "13244470",
-      "name": "【小米】官方旗艦館 家電快配★75型4K Mini LED 144Hz Google TV杜比智慧聯網顯示器(S mini 75)",
-      "price": 22618.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13244470"
-    },
-    "13215191": {
-      "item_id": "13215191",
-      "name": "【小米官方旗艦館】Xiaomi Sound Pocket 黑色",
-      "price": 449.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13215191"
-    },
-    "13635840": {
-      "item_id": "13635840",
-      "name": "【小米】官方旗艦館 Xiaomi BE3600路由器 (WiFi7/2.5G連接埠/雙頻聚合/高通晶片)",
-      "price": 1759.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13635840"
-    },
-    "13334696": {
-      "item_id": "13334696",
-      "name": "【小米】官方旗艦館Xiaomi AX1500路由器 (WiFi6/自適應1G連接埠 Mesh WPA3)",
-      "price": 799.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334696"
-    },
-    "13380916": {
-      "item_id": "13380916",
-      "name": "【小米】官方旗艦館 Xiaomi 商務雙肩包",
-      "price": 1469.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13380916"
-    },
-    "13866214": {
-      "item_id": "13866214",
-      "name": "【小米】官方旗艦館 小米便攜印表機即貼相紙",
-      "price": 295.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13866214"
-    },
-    "14880039": {
-      "item_id": "14880039",
-      "name": "(二入組)【小米】官方旗艦館 智慧攝影機 C201",
-      "price": 1158.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14880039"
-    },
-    "10837017": {
-      "item_id": "10837017",
-      "name": "【小米】官方旗艦館 Xiaomi K歌麥克風",
-      "price": 1749.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=10837017"
-    },
     "14969909": {
       "item_id": "14969909",
       "name": "【小米】官方旗艦館 Xiaomi 17 Ultra 6.9吋 5G(16G/1TB/第五代驍龍8850W/主相機徠卡2億像素光學變焦",
       "price": 40999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14969909"
     },
-    "14977717": {
-      "item_id": "14977717",
-      "name": "【小米】官方旗艦館 Xiaomi Pad 8 11.2吋 WiFi(8G/128G/高通8s Gen4/主相機1300萬畫素)",
-      "price": 11999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977717"
+    "13356856": {
+      "item_id": "13356856",
+      "name": "【小米】官方旗艦館 小米迷你雙肩包(活力橙/芭比粉/湖藍/玄青/曜石黑)",
+      "price": 199.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356856"
     },
-    "14467467": {
-      "item_id": "14467467",
-      "name": "【小米】官方旗艦館 Xiaomi 便攜相片印表機 Pro 熱昇華即貼相紙(50張)",
-      "price": 699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14467467"
+    "13554036": {
+      "item_id": "13554036",
+      "name": "【小米】官方旗艦館 Xiaomi 智慧跳繩",
+      "price": 599.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13554036"
     },
-    "13696526": {
-      "item_id": "13696526",
-      "name": "【小米】官方旗艦館 智慧香氛機 香氛液補充瓶(玫瑰荔枝/柏木茶香)",
-      "price": 189.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13696526"
-    },
-    "14934756": {
-      "item_id": "14934756",
-      "name": "【小米】官方旗艦館 Xiaomi 電競曲面螢幕 G34WQi 2026(34型/WQHD/180Hz/1ms/VA)",
-      "price": 7399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14934756"
-    },
-    "15235850": {
-      "item_id": "15235850",
-      "name": "【小米】金屬造型錶帶組★官方旗艦館 小米手環10",
-      "price": 1390.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15235850"
+    "13356855": {
+      "item_id": "13356855",
+      "name": "【小米】官方旗艦館 小米商務通勤背包(藍色/深灰/淺灰)",
+      "price": 595.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13356855"
     },
     "13345159": {
       "item_id": "13345159",
@@ -1099,29 +949,11 @@
       "price": 1758.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13345159"
     },
-    "14881362": {
-      "item_id": "14881362",
-      "name": "【小米】官方旗艦館 (三入組) 室外攝影機 CW500 雙攝版 監視器/雙2.5K超清畫質/人形追蹤/智慧全彩夜視/聲光",
-      "price": 5787.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14881362"
-    },
-    "14987109": {
-      "item_id": "14987109",
-      "name": "【小米】官方旗艦館 Xiaomi Watch 5(卡其綠/星空黑)",
-      "price": 7999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14987109"
-    },
-    "13691967": {
-      "item_id": "13691967",
-      "name": "【小米】官方旗艦館 智慧香氛機(需額外購買專用香氛補充瓶)",
-      "price": 599.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13691967"
-    },
-    "14682690": {
-      "item_id": "14682690",
-      "name": "【小米】二入組 小米官方旗艦館 Xiaomi 智慧攝影機 C500 3.5K超清畫質/ 600萬畫素 寵物/人形追蹤",
-      "price": 1958.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14682690"
+    "15235850": {
+      "item_id": "15235850",
+      "name": "【小米】金屬造型錶帶組★官方旗艦館 小米手環10",
+      "price": 1390.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15235850"
     },
     "15014185": {
       "item_id": "15014185",
@@ -1129,11 +961,23 @@
       "price": 7799.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15014185"
     },
-    "13866279": {
-      "item_id": "13866279",
-      "name": "【小米】官方旗艦館 桌上型照片印表機1S相紙6吋40張",
-      "price": 395.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13866279"
+    "14978416": {
+      "item_id": "14978416",
+      "name": "【小米】官方旗艦館 Xiaomi 掃拖機器人 H50 Pro(15000Pa/雙貼邊/零纏繞/全能基站/自動洗烘)",
+      "price": 10999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14978416"
+    },
+    "14682690": {
+      "item_id": "14682690",
+      "name": "【小米】二入組 小米官方旗艦館 Xiaomi 智慧攝影機 C500 3.5K超清畫質/ 600萬畫素 寵物/人形追蹤",
+      "price": 1958.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14682690"
+    },
+    "14881362": {
+      "item_id": "14881362",
+      "name": "【小米】官方旗艦館 (三入組) 室外攝影機 CW500 雙攝版 監視器/雙2.5K超清畫質/人形追蹤/智慧全彩夜視/聲光",
+      "price": 5787.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14881362"
     },
     "14881369": {
       "item_id": "14881369",
@@ -1141,23 +985,11 @@
       "price": 1558.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14881369"
     },
-    "14978416": {
-      "item_id": "14978416",
-      "name": "【小米】官方旗艦館 Xiaomi 掃拖機器人 H50 Pro(15000Pa/雙貼邊/零纏繞/全能基站/自動洗烘)",
-      "price": 10999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14978416"
-    },
-    "14329119": {
-      "item_id": "14329119",
-      "name": "【小米】官方旗艦館 Xiaomi LED 智慧彩光燈泡",
-      "price": 399.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14329119"
-    },
-    "15238715": {
-      "item_id": "15238715",
-      "name": "【小米】官方旗艦館 Redmi Buds 8",
-      "price": 1199.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238715"
+    "14843442": {
+      "item_id": "14843442",
+      "name": "【小米】官方旗艦館 REDMI 紅米 Note 15 Pro 6.83吋 5G(12G/512G/MTK Dimensity 7400 Ultra/2億畫素)",
+      "price": 11499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14843442"
     },
     "13345156": {
       "item_id": "13345156",
@@ -1165,17 +997,23 @@
       "price": 3585.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13345156"
     },
+    "14682687": {
+      "item_id": "14682687",
+      "name": "三入組【小米官方旗艦館】Xiaomi 智慧攝影機 C500 3.5K超清畫質/ 600萬畫素 寵物/人形追蹤/ 360°旋轉式/微",
+      "price": 2907.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14682687"
+    },
     "13244469": {
       "item_id": "13244469",
       "name": "【小米】官方旗艦館 家電快配★65型4K Mini LED 144Hz Google TV杜比智慧聯網顯示器(S mini 65)",
       "price": 18999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13244469"
     },
-    "13334694": {
-      "item_id": "13334694",
-      "name": "【小米】官方旗艦館 Xiaomi AX3000 Mesh 路由器（一件裝）",
-      "price": 1199.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334694"
+    "13167242": {
+      "item_id": "13167242",
+      "name": "【小米】官方旗艦館 桌上型照片印表機1S組合(相印機/wifi/附20張6吋相紙)",
+      "price": 3495.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13167242"
     },
     "13756854": {
       "item_id": "13756854",
@@ -1183,41 +1021,23 @@
       "price": 12999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756854"
     },
+    "13851168": {
+      "item_id": "13851168",
+      "name": "【小米】官方旗艦館 Xiaomi BE3600 Pro Mesh路由器 (WiFi7/2.5G/藍牙網關)",
+      "price": 2399.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13851168"
+    },
+    "14987109": {
+      "item_id": "14987109",
+      "name": "【小米】官方旗艦館 Xiaomi Watch 5(卡其綠/星空黑)",
+      "price": 7999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14987109"
+    },
     "13284774": {
       "item_id": "13284774",
       "name": "【小米】官方旗艦館 Xiaomi Buds 5",
       "price": 2795.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13284774"
-    },
-    "14417938": {
-      "item_id": "14417938",
-      "name": "【小米】官方旗艦館 Xiaomi 6A USB4 編織高速傳輸線 1m(USB-C to USB-C)",
-      "price": 699.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14417938"
-    },
-    "13984745": {
-      "item_id": "13984745",
-      "name": "【小米】官方旗艦館  吸頂燈 D20",
-      "price": 1039.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13984745"
-    },
-    "14620509": {
-      "item_id": "14620509",
-      "name": "【小米】官方旗艦館 Xiaomi 米家智慧淨水器 N800G(含安裝)",
-      "price": 7999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14620509"
-    },
-    "13865489": {
-      "item_id": "13865489",
-      "name": "【小米】官方旗艦館 搭1組6吋專用相印紙★桌上型照片印表機_共60張相印紙",
-      "price": 3890.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13865489"
-    },
-    "14459813": {
-      "item_id": "14459813",
-      "name": "【小米】小米官方旗艦館 Xiaomi 開放式耳機 Pro",
-      "price": 3499.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14459813"
     },
     "13418130": {
       "item_id": "13418130",
@@ -1225,11 +1045,29 @@
       "price": 5007.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13418130"
     },
-    "13474745": {
-      "item_id": "13474745",
-      "name": "【小米】官方旗艦館 Xiaomi 運動水杯",
-      "price": 469.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13474745"
+    "14459813": {
+      "item_id": "14459813",
+      "name": "【小米】小米官方旗艦館 Xiaomi 開放式耳機 Pro",
+      "price": 3499.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14459813"
+    },
+    "13696526": {
+      "item_id": "13696526",
+      "name": "【小米】官方旗艦館 智慧香氛機 香氛液補充瓶(玫瑰荔枝/柏木茶香)",
+      "price": 189.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13696526"
+    },
+    "15238714": {
+      "item_id": "15238714",
+      "name": "【小米】官方旗艦館 Xiaomi Buds 6",
+      "price": 2999.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238714"
+    },
+    "14934756": {
+      "item_id": "14934756",
+      "name": "【小米】官方旗艦館 Xiaomi 電競曲面螢幕 G34WQi 2026(34型/WQHD/180Hz/1ms/VA)",
+      "price": 7029.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14934756"
     },
     "14375639": {
       "item_id": "14375639",
@@ -1249,11 +1087,11 @@
       "price": 798.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14349536"
     },
-    "15238714": {
-      "item_id": "15238714",
-      "name": "【小米】官方旗艦館 Xiaomi Buds 6",
-      "price": 2999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15238714"
+    "14467465": {
+      "item_id": "14467465",
+      "name": "【小米】官方旗艦館 Xiaomi 便攜相片印表機 Pro 熱昇華相紙(20張)",
+      "price": 249.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14467465"
     },
     "13849692": {
       "item_id": "13849692",
@@ -1261,59 +1099,17 @@
       "price": 279.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13849692"
     },
-    "14977715": {
-      "item_id": "14977715",
-      "name": "【小米】官方旗艦館 Xiaomi Pad 8 Pro 11.2吋 WiFi(8G/256G/高通8 Elite/主相機5000萬畫素)",
-      "price": 15999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14977715"
-    },
-    "14467465": {
-      "item_id": "14467465",
-      "name": "【小米】官方旗艦館 Xiaomi 便攜相片印表機 Pro 熱昇華相紙(20張)",
-      "price": 249.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14467465"
-    },
-    "13244468": {
-      "item_id": "13244468",
-      "name": "【小米】官方旗艦館 家電快配★55型4K Mini LED 144Hz Google TV杜比智慧聯網顯示器(S mini 55)",
-      "price": 13999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13244468"
-    },
-    "13417964": {
-      "item_id": "13417964",
-      "name": "(二入組)【小米】官方旗艦館  智慧攝影機 C300 雙攝版",
-      "price": 2750.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13417964"
-    },
-    "13756851": {
-      "item_id": "13756851",
-      "name": "官方旗艦館【小米】Xiaomi Pad 7 Pro WiFi 11.2吋(8G/256G)",
-      "price": 10999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13756851"
-    },
-    "15108044": {
-      "item_id": "15108044",
-      "name": "【小米】官方旗艦館 Xiaomi 開放式耳機",
-      "price": 2195.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15108044"
-    },
-    "14880041": {
-      "item_id": "14880041",
-      "name": "(三入組)【小米】官方旗艦館 智慧攝影機 C201",
-      "price": 1707.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14880041"
-    },
     "13744121": {
       "item_id": "13744121",
       "name": "【小米】官方旗艦館 Xiaomi Buds 5 Pro Wi-Fi(透亮黑)",
       "price": 5999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13744121"
     },
-    "13865491": {
-      "item_id": "13865491",
-      "name": "【小米】官方旗艦館 搭1組3吋+6吋專用相印紙★桌上型照片印表機_共100張相印紙",
-      "price": 4485.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13865491"
+    "13334694": {
+      "item_id": "13334694",
+      "name": "【小米】官方旗艦館 Xiaomi AX3000 Mesh 路由器（一件裝）",
+      "price": 1199.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13334694"
     },
     "14849163": {
       "item_id": "14849163",
@@ -1321,17 +1117,17 @@
       "price": 149.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14849163"
     },
-    "13529593": {
-      "item_id": "13529593",
-      "name": "【小米】官方旗艦館  電競滑鼠 Lite",
-      "price": 559.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13529593"
+    "15235859": {
+      "item_id": "15235859",
+      "name": "【小米】金屬造型錶帶組★官方旗艦館 小米手環10 NFC",
+      "price": 1590.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15235859"
     },
-    "14449830": {
-      "item_id": "14449830",
-      "name": "官方旗艦館【小米】REDMI Pad 2 Pro 5G 12.1吋(8G/256G)",
-      "price": 10999.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14449830"
+    "13865489": {
+      "item_id": "13865489",
+      "name": "【小米】官方旗艦館 搭1組6吋專用相印紙★桌上型照片印表機_共60張相印紙",
+      "price": 3890.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13865489"
     },
     "13282908": {
       "item_id": "13282908",
@@ -1339,17 +1135,17 @@
       "price": 5999.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13282908"
     },
+    "13529593": {
+      "item_id": "13529593",
+      "name": "【小米】官方旗艦館  電競滑鼠 Lite",
+      "price": 559.0,
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13529593"
+    },
     "14921512": {
       "item_id": "14921512",
       "name": "尾牙採購5入組【小米】官方旗艦館 小米手環10",
       "price": 5995.0,
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14921512"
-    },
-    "13149118": {
-      "item_id": "13149118",
-      "name": "【小米】官方旗艦館  捲邊休閒雙肩",
-      "price": 1299.0,
-      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13149118"
     }
   }
 }
